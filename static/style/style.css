@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(190,132,149,1) 100%);
+    color:white;
+    font-family: Playfair Display;
+    
+}
+    
+    .red{
+    background-color: red;
+    display:flex;
+    justify-content: center;
+    }
+    
+    .orange{
+    background-color: orange;
+    display:flex;
+    justify-content: center;
+    }
+    
+    .yellow{
+    background-color: yellow;
+    display:flex;
+    justify-content: center;
+    color: rgb(139, 139, 139);
+    }
+    
+    .green{
+    background-color: green;
+    display:flex;
+    justify-content: center;
+    }
+    
+    .blue{
+    background-color: #0000ff;
+    display:flex;
+    justify-content: center;
+    }
+    
+    .perple{
+    background-color: #8b00ff;
+    display:flex;
+    justify-content: center;
+    }
+    
+    .plus{
+    margin:6px;
+    }
+
+    .baner{
+        font-size: 12em;
+        color: rgb(0, 255, 81);
+    }
+
+   
